@@ -1,0 +1,43 @@
+1)
+pip freeze : faghat onayi ke ma ezafe mikonimo neshon mide
+pip list : package haye default python ro ham neshon mide
+
+
+2)
+how to export pip freeze :
+pip freeze > req.txt
+
+
+3)
+how to install requirements :
+pip install -r req.txt
+
+
+4)
+bekhaym ye khat ro az req.txt nasb nakonim commentesh mikonim :
+#django
+jdatetime
+#six
+jupyter
+
+
+5)
+module : har file .py
+package : folderi ke tosh file "__init__.py" dashte bashe
+
+import modules
+import types
+import types example : calendar , math , ...
+
+
+6)
+olaviate import module ha ba hamon mohit ( folder ) ke tosh hastim e , badaz on ba sys.path :
+import sys
+sys.path
+
+
+7) tafavote script va module
+script : __name__ == "__main__"
+module : __name__ != "__main__"       Darvaghe __name__ barabar ba esm file ast
+
+

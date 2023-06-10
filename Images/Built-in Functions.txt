@@ -1,0 +1,15 @@
+sort() moratab mikone
+max() maximum ye list
+min() minimum ye list 
+print() print
+casefold() key sensetivty ro off mikone
+rstrip() "\n" haro hazf mikone
+range() range
+len() tedad argham
+type() type yek structure ro behet mide
+sum() jam mikone
+upper() hamaro horof bozorg mikone
+lower() hamaro horof kochik mikone
+hex() convert be hexadecimal
+bin() convert be binary
+set() mavared tekrari ro hazf mikone az list
